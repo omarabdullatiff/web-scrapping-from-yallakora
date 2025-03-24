@@ -10,16 +10,6 @@ This is a simple Python script that helps you scrape match details (like team na
 - **Extracts Useful Info**: It pulls out the championship name, team names, scores, and match times.
 - **Saves to CSV**: All the data is saved into a CSV file (`matches_details.csv`) so you can open it in Excel, Google Sheets, or any other tool.
 
----
-
-## What Do You Need? 🛠️
-
-Before you start, make sure you have these installed:
-- **Python 3.x** (because Python 2 is so last decade 😉)
-- These Python libraries: `requests`, `beautifulsoup4`, and `csv`.
-
----
-
 ## Let’s Get Started! 
 
 1. **Clone this repo**:
